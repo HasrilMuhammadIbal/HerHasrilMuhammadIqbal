@@ -11,7 +11,7 @@ import org.springframework.stereotype.Repository;
 
 /**
  *
- * @author Acer
+ * @author WINDOWS
  */
 @Repository
 public interface BukuRepository extends JpaRepository<Buku, Long> {

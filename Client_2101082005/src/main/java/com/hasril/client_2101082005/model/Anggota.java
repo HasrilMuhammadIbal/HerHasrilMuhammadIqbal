@@ -6,7 +6,7 @@ package com.hasril.client_2101082005.model;
 
 /**
  *
- * @author Acer
+ * @author WINDOWS
  */
 public class Anggota {
     private Long anggotaId;

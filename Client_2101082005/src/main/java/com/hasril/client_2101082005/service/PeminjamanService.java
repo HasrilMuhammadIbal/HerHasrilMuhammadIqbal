@@ -15,7 +15,7 @@ import kong.unirest.Unirest;
 
 /**
  *
- * @author Acer
+ * @author WINDOWS
  */
 public class PeminjamanService {
     private final String URL = "http://localhost:9002";

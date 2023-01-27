@@ -10,7 +10,7 @@ import org.springframework.stereotype.Repository;
 
 /**
  *
- * @author Apip
+ * @author WINDOWS
  */
 @Repository
 public interface PenjualanRepository extends JpaRepository<Penjualan, Long>{

@@ -14,7 +14,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author Acer
+ * @author WINDOWS
  */
 public class PeminjamanController {
     private final PeminjamanService peminjamanService;

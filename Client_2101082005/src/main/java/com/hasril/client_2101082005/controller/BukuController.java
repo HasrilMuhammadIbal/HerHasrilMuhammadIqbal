@@ -14,7 +14,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author Acer
+ * @author WINDOWS
  */
 public class BukuController {
     private BukuService bukuService;

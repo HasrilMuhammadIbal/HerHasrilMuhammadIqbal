@@ -15,7 +15,7 @@ import kong.unirest.Unirest;
 
 /**
  *
- * @author Acer
+ * @author WINDOWS
  */
 public class BukuService {
     private String URL = "http://localhost:9005";

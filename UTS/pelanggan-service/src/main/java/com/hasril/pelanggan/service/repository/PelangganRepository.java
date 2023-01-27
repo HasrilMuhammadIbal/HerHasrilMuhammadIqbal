@@ -10,7 +10,7 @@ import org.springframework.stereotype.Repository;
 
 /**
  *
- * @author Apip
+ * @author WINDOWS
  */
 @Repository
 public interface PelangganRepository extends JpaRepository<Pelanggan, Long>{

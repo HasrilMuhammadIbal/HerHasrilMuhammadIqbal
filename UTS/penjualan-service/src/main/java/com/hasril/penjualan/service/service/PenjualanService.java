@@ -16,7 +16,7 @@ import org.springframework.web.client.RestTemplate;
 
 /**
  *
- * @author Apip
+ * @author WINDOWS
  */
 @Service
 public class PenjualanService {

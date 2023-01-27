@@ -11,7 +11,7 @@ import org.springframework.stereotype.Service;
 
 /**
  *
- * @author Apip
+ * @author WINDOWS
  */
 @Service
 public class PelangganService {

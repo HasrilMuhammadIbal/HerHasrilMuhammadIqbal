@@ -14,7 +14,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author Acer
+ * @author WINDOWS
  */
 public class AnggotaController {
     private final AnggotaService anggotaService;

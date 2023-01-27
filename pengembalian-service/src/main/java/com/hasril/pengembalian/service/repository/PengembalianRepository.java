@@ -10,7 +10,7 @@ import org.springframework.stereotype.Repository;
 
 /**
  *
- * @author Acer
+ * @author WINDOWS
  */
 @Repository
 public interface PengembalianRepository extends JpaRepository<Pengembalian, Long>{

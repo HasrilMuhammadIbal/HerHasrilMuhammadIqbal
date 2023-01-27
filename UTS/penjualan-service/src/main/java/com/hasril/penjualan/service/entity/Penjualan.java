@@ -14,7 +14,7 @@ import lombok.NoArgsConstructor;
 
 /**
  *
- * @author Apip
+ * @author WINDOWS
  */
 @Entity
 @Data
