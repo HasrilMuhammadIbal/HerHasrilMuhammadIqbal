@@ -20,7 +20,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 /**
  *
- * @author Acer
+ * @author WINDOWS
  */
 @RestController
 @RequestMapping("/anggota")
